@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{0028C063-F9E2-C749-60FA-47D9662B513D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/1.ObjectPooling/Script/CreateCube.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2.HP/Script/HpBarScript.cs">
     <Files>
+      <File FileName="Assets/1.ObjectPooling/Script/Cube.cs" Line="17" Column="62" />
       <File FileName="Assets/1.ObjectPooling/Script/CreateCube.cs" Line="1" Column="1" />
       <File FileName="Assets/1.ObjectPooling/Script/ObjectPoolingManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/1.ObjectPooling/Script/Cube.cs" Line="1" Column="1" />
+      <File FileName="Assets/2.HP/Script/HpBarScript.cs" Line="7" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,8 +12,11 @@
           <Node name="Unity-Skill" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="1.ObjectPooling" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="2.HP" expanded="True">
                 <Node name="Script" expanded="True">
-                  <Node name="CreateCube.cs" selected="True" />
+                  <Node name="HpBarScript.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
