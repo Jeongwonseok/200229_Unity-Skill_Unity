@@ -66,6 +66,8 @@
     <Compile Include="Assets\1.ObjectPooling\Script\Cube.cs" />
     <Compile Include="Assets\1.ObjectPooling\Script\ObjectPoolingManager.cs" />
     <Compile Include="Assets\2.HP\Script\HpBarScript.cs" />
+    <Compile Include="Assets\3.Explosion\Script\Cube2.cs" />
+    <Compile Include="Assets\3.Explosion\Script\MouseController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity3D/Unity-Skill/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

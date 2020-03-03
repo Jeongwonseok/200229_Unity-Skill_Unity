@@ -39,6 +39,7 @@ public class HpBarScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // HP바가 몬스터 머리 위를 따라다니도록 프레임마다 update 해준다.
         for(int i=0; i<m_objectList.Count; i++)
         {
             m_hpBarList[i].transform.position = m_cam.WorldToScreenPoint(m_objectList[i].position + new Vector3(0, 1.25f, 0));
