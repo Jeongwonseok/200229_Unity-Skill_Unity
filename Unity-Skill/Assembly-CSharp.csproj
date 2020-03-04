@@ -70,6 +70,7 @@
     <Compile Include="Assets\3.Explosion\Script\MouseController.cs" />
     <Compile Include="Assets\4.Background\Script\BackgroundScrolling.cs" />
     <Compile Include="Assets\5.Texture\Script\TextureScrolling.cs" />
+    <Compile Include="Assets\6.Camara Shaking\Script\CameraShake.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity3D/Unity-Skill/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
