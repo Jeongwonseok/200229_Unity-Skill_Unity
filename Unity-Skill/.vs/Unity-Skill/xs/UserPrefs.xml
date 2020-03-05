@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0028C063-F9E2-C749-60FA-47D9662B513D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/7.Arrow/Script/Fire.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/8.Camera Zoom/Script/Zoom.cs">
     <Files>
       <File FileName="Assets/6.Camara Shaking/Script/CameraShake.cs" Line="29" Column="10" />
-      <File FileName="Assets/7.Arrow/Script/Fire.cs" Line="1" Column="1" />
+      <File FileName="Assets/8.Camera Zoom/Script/Zoom.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,9 +27,9 @@
               <Node name="6.Camara Shaking" expanded="True">
                 <Node name="Script" expanded="True" />
               </Node>
-              <Node name="7.Arrow" expanded="True">
+              <Node name="8.Camera Zoom" expanded="True">
                 <Node name="Script" expanded="True">
-                  <Node name="Fire.cs" selected="True" />
+                  <Node name="Zoom.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -40,7 +40,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e53d2c5f-0fa6-4082-a638-3ca84466d973" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f504a17-23ac-4d04-9c10-8e8aba8aa92a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
