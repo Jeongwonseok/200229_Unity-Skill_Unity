@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/6.Camera_1.unity
+- path: Assets/Scenes/9.Auto Turret.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

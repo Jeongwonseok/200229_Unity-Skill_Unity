@@ -72,6 +72,8 @@
     <Compile Include="Assets\5.Texture\Script\TextureScrolling.cs" />
     <Compile Include="Assets\6.Camara Shaking\Script\CameraShake.cs" />
     <Compile Include="Assets\8.Camera Zoom\Script\Zoom.cs" />
+    <Compile Include="Assets\9.Auto Turret\Script\Bullet.cs" />
+    <Compile Include="Assets\9.Auto Turret\Script\Turret.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity3D/Unity-Skill/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

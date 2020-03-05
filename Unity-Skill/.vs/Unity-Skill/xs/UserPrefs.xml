@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{0028C063-F9E2-C749-60FA-47D9662B513D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/8.Camera Zoom/Script/Zoom.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/9.Auto Turret/Script/Bullet.cs">
     <Files>
       <File FileName="Assets/6.Camara Shaking/Script/CameraShake.cs" Line="29" Column="10" />
-      <File FileName="Assets/8.Camera Zoom/Script/Zoom.cs" Line="1" Column="1" />
+      <File FileName="Assets/8.Camera Zoom/Script/Zoom.cs" Line="42" Column="10" />
+      <File FileName="Assets/9.Auto Turret/Script/Turret.cs" Line="80" Column="18" />
+      <File FileName="Assets/9.Auto Turret/Script/Bullet.cs" Line="13" Column="75" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -28,8 +30,11 @@
                 <Node name="Script" expanded="True" />
               </Node>
               <Node name="8.Camera Zoom" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="9.Auto Turret" expanded="True">
                 <Node name="Script" expanded="True">
-                  <Node name="Zoom.cs" selected="True" />
+                  <Node name="Bullet.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
