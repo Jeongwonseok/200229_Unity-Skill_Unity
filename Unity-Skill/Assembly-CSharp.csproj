@@ -65,6 +65,8 @@
     <Compile Include="Assets\1.ObjectPooling\Script\CreateCube.cs" />
     <Compile Include="Assets\1.ObjectPooling\Script\Cube.cs" />
     <Compile Include="Assets\1.ObjectPooling\Script\ObjectPoolingManager.cs" />
+    <Compile Include="Assets\10.Missile\Script\MilssileLauncher.cs" />
+    <Compile Include="Assets\10.Missile\Script\Missile.cs" />
     <Compile Include="Assets\2.HP\Script\HpBarScript.cs" />
     <Compile Include="Assets\3.Explosion\Script\Cube2.cs" />
     <Compile Include="Assets\3.Explosion\Script\MouseController.cs" />
@@ -74,6 +76,7 @@
     <Compile Include="Assets\8.Camera Zoom\Script\Zoom.cs" />
     <Compile Include="Assets\9.Auto Turret\Script\Bullet.cs" />
     <Compile Include="Assets\9.Auto Turret\Script\Turret.cs" />
+    <None Include="Assets\10.Missile\Missile\Doc\ReadMe.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity3D/Unity-Skill/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
