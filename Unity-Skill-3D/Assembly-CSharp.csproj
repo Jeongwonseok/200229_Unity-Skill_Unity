@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0028C063-F9E2-C749-60FA-47D9662B513D}</ProjectGuid>
+    <ProjectGuid>{0BBE6ED5-4BA6-A86A-61B4-8D805869BF59}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,6 +67,7 @@
     <Compile Include="Assets\1.ObjectPooling\Script\ObjectPoolingManager.cs" />
     <Compile Include="Assets\10.Missile\Script\MilssileLauncher.cs" />
     <Compile Include="Assets\10.Missile\Script\Missile.cs" />
+    <Compile Include="Assets\12.AI View\Script\View.cs" />
     <Compile Include="Assets\2.HP\Script\HpBarScript.cs" />
     <Compile Include="Assets\3.Explosion\Script\Cube2.cs" />
     <Compile Include="Assets\3.Explosion\Script\MouseController.cs" />
@@ -78,31 +79,31 @@
     <Compile Include="Assets\9.Auto Turret\Script\Turret.cs" />
     <None Include="Assets\10.Missile\Missile\Doc\ReadMe.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/jws/Desktop/200229_Unity-Skill_Unity/Unity-Skill-3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
