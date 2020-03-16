@@ -399,7 +399,7 @@ Unity 엔진과, 유튜브 강좌를 이용해서 게임에 활용할 12가지�
 
 ```
 * 설명
-- 위험지역으로 달려갈 Enemy를 태그를 이용해 검출하고, 지정한다. (OnTriggerEnter() & OnTriggerExit() 오버라이딩)
+- 위험지역으로 달려갈 Enemy를 태그를 이용해 검출한다. (OnTriggerEnter() & OnTriggerExit() 오버라이딩)
 ```
 
 <p align="center">
