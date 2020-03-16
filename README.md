@@ -39,7 +39,7 @@ Unity 엔진과, 유튜브 강좌를 이용해서 게임에 활용할 12가지�
 # 4. 주요 구현부
 ## 4.1. 오브젝트 풀링
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object1.png" width="500" height="500"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object1.png" width="678" height="336"><br>
 </p>
 
 ```
@@ -50,7 +50,7 @@ Unity 엔진과, 유튜브 강좌를 이용해서 게임에 활용할 12가지�
 ```
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object2.png" width="500" height="500"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object2.png" width="330" height="220"><br>
 </p>
 
 ```
@@ -60,7 +60,7 @@ Unity 엔진과, 유튜브 강좌를 이용해서 게임에 활용할 12가지�
 ```
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object3.png" width="500" height="500"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object3.png" width="547" height="290"><br>
 </p>
 
 ```
@@ -69,7 +69,7 @@ Unity 엔진과, 유튜브 강좌를 이용해서 게임에 활용할 12가지�
 ```
 
 <p align="center">
-<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object4.png" width="500" height="500"><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object4.png" width="516" height="366"><br>
 </p>
 
 ```
