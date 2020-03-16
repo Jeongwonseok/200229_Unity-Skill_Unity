@@ -34,8 +34,51 @@ Unity 엔진과, 유튜브 강좌를 이용해서 게임에 활용할 12가지�
 # 3. 개발 환경
 * Unity 2019.2.9f1 Personal
 * Visual Studio 2019
+
+****
+# 4. 주요 구현부
+## 4.1. 오브젝트 풀링
+<p align="center">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object1.png" width="500" height="500"><br>
+</p>
+
+```
+* 설명
+- 오브젝트 풀링으로 쓸 객체 변수를 선언한다.
+- 객체를 저장시킬 풀(큐)를 생성한다.
+- 객체를 생성한 뒤, 시작과 동시에 풀(큐)에 저장한다.
+```
+
+<p align="center">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object2.png" width="500" height="500"><br>
+</p>
+
+```
+* 설명
+- 사용한 객체를 풀(큐)에 반납시키는 함수를 생성한다.
+- 풀(큐)에서 객체를 빌려오는 함수를 생성한다.
+```
+
+<p align="center">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object3.png" width="500" height="500"><br>
+</p>
+
+```
+* 설명
+- 미리 풀(큐)에 저장된 객체를 꺼낸다.
+```
+
+<p align="center">
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/Skill/object4.png" width="500" height="500"><br>
+</p>
+
+```
+* 설명
+- 활성화 될때마다 폭발하듯 날아가도록 하는 함수 (AddExplosionForce()) 이용해서 폭발 구현
+- 1초마다 생성된 큐브를 풀(큐)에 반납시켜 효율성을 높인다.
+```
  
 ****
-# 4. 참고
+# 5. 참고
 * 게임 플레이 영상 : https://www.youtube.com/watch?v=eBJxQg2OESA
 * 참고 URL : https://www.youtube.com/watch?v=Qc-JfTpZ5qg&list=PLUZ5gNInsv_PZPDqJSs6IQVRFPQTbf9t6&index=1
