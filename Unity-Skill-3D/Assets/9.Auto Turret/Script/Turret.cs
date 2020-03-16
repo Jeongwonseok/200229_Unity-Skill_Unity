@@ -84,13 +84,6 @@ public class Turret : MonoBehaviour
 
                     Instantiate(prefab_Bullet, m_fire1.position, t_fireRotation);
                     Instantiate(prefab_Bullet, m_fire2.position, t_fireRotation);
-
-
-                    //// 여기에 총알 생성해서 날리기
-                    //GameObject fire1 = Instantiate(prefab_Bullet, m_fire1.position, Quaternion.identity);
-                    //GameObject fire2 = Instantiate(prefab_Bullet, m_fire2.position, Quaternion.identity);
-                    //fire1.GetComponent<Rigidbody>().AddForce(fire1.transform.forward * m_currentFireRate);
-                    //fire2.GetComponent<Rigidbody>().AddForce(fire2.transform.forward * m_currentFireRate);
                 }
             }
         }

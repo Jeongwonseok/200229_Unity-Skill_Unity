@@ -67,9 +67,8 @@
     <Compile Include="Assets\1.ObjectPooling\Script\ObjectPoolingManager.cs" />
     <Compile Include="Assets\10.Missile\Script\MilssileLauncher.cs" />
     <Compile Include="Assets\10.Missile\Script\Missile.cs" />
-    <Compile Include="Assets\12.AI View\Script\View.cs" />
-    <Compile Include="Assets\13.AI Guard\Script\Danger.cs" />
-    <Compile Include="Assets\13.AI Guard\Script\EnemyAI.cs" />
+    <Compile Include="Assets\12.AI Guard\Script\Danger.cs" />
+    <Compile Include="Assets\12.AI Guard\Script\EnemyAI.cs" />
     <Compile Include="Assets\2.HP\Script\HpBarScript.cs" />
     <Compile Include="Assets\3.Explosion\Script\Cube2.cs" />
     <Compile Include="Assets\3.Explosion\Script\MouseController.cs" />

@@ -52,7 +52,7 @@ public class Missile : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // 표적이 있으면!!
+        // 표적이 있으면!! -> 미사일 위로 가속하기!
         if(m_tfTarget != null)
         {
             if (m_currentSpeed <= m_speed)
@@ -62,11 +62,13 @@ public class Missile : MonoBehaviour
 
             // 표적 위치 - 미사일 위치 = 방향과 거리 산출
             Vector3 t_dir = (m_tfTarget.position - transform.position).normalized;
+
             // y축을 부드럽게 꺾기
             transform.up = Vector3.Lerp(transform.up, t_dir, 0.25f);
         }
     }
 
+    // 미사일이 태그가 Enemy인 콜라이더와 충돌하면 해당 미사일과 충돌한 Enemy를 파괴한다.
     private void OnCollisionEnter(Collision collision)
     {
         if(collision.transform.CompareTag("Enemy"))
